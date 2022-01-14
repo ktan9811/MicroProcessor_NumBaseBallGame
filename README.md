@@ -12,6 +12,9 @@ AtmelStudio, Visual Studio 2015를 기반으로 만듬.
 ComportMaster를 통해 Usart 통신을 함. (http://withrobot.com/data/?mod=document&uid=12)
 
 
+# Flow Chart
+<img width="500" src="https://user-images.githubusercontent.com/86091469/149503891-e58f71c4-81e0-4a2b-936a-1f75802ebdd4.png"/>
+
 # 동작 과정
 보드를 실행하면 숫자 야구 게임이 시작 된다.
 
